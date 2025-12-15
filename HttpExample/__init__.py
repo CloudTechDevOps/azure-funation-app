@@ -5,9 +5,9 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 
     # Sample data (real-time demo data)
     users = [
-        {"id": 1, "name": "Sri Vardhan", "role": "DevOps Engineer"},
-        {"id": 2, "name": "Anil", "role": "Backend Developer"},
-        {"id": 3, "name": "Ravi", "role": "Cloud Engineer"}
+        {"id": 1, "name": "veera-don", "role": "DevOps Engineer"},
+        {"id": 2, "name": "nareshit", "role": "Backend Developer"},
+        {"id": 3, "name": "vsv", "role": "Cloud Engineer"}
     ]
 
     # If query param 'api=true' → act as API
