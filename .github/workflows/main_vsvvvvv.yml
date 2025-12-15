@@ -34,4 +34,4 @@ jobs:
           app-name: 'vsvvvvv'
           slot-name: 'Production'
           package: './functionapp.zip'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_339965EB457942D0B3B2A92062306C9A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D73D81C4A31401B8D3BE42E448F17AA }}
